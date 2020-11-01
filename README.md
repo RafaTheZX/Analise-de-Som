@@ -1,4 +1,5 @@
 # Analise-de-Som
+# Linguagem Python
 
 import numpy as np
 import matplotlib.pyplot as plt
